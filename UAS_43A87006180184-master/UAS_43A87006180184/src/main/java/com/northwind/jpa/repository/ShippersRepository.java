@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author ahza0
+ * @author user
  */
 @Repository
 public interface ShippersRepository extends JpaRepository<Shippers, Integer>{
